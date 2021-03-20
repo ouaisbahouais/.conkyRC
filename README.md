@@ -1,0 +1,3 @@
+# .conkyRC
+
+test
