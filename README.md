@@ -1,3 +1,4 @@
 # .conkyRC
 
 test
+super
